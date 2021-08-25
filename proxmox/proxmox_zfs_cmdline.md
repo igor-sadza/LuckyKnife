@@ -5,11 +5,11 @@ If you want to passtrought pcie on zfs setup you need to edit cmdline in your ke
 
 ### Installation
 
-1. Edit cmdline
+1. Edit cmdline file
 ```sh
 vi /etc/kernel/cmdline
 ```
-2. Put this parameters
+2. Put parameters that you need
 ```sh
 console=tty0 amd_iommu=on pcie_acs_override=downstream,multifunction video=vesafb:off,efifb:off video=efifb:off pci=noaer
 ```
