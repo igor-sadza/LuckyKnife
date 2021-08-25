@@ -7,11 +7,11 @@ Mail settings for your bitwarden self hosted service.
 
 Put this global settings in your bitwarden override file.
 
-1. Edit global.override.env
+Edit global.override.env
 ```sh
 vi ~/bwdata/env/global.override.env
 ```
-2. Put parameters
+Paste parameters
 ```sh
 globalSettings__mail__replyToEmail=no-reply@YOUR-DOMAIN
 globalSettings__mail__smtp__host=YOUR-DOMAIN
