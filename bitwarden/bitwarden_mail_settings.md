@@ -1,10 +1,21 @@
 # BitwardenMailSettings
 Mail settings for your bitwarden self hosted service.
 
-# global.override.env 
-Put this code below in your bitwarden global.override.env (~/bwdata/env/global.override.env)
+<!-- ABOUT THE PROJECT -->
+## BITWARDEN MAIL SETTINGS
 
+Mail settings for your bitwarden self hosted service.
+
+### Installation
+
+Put this global settings in your bitwarden override file.
+
+1. Edit global.override.env
+```sh
+vi ~/bwdata/env/global.override.env
 ```
+2. Put parameters
+```sh
 globalSettings__mail__replyToEmail=no-reply@YOUR-DOMAIN
 globalSettings__mail__smtp__host=YOUR-DOMAIN
 globalSettings__mail__smtp__username=VALID-USERNAME
@@ -15,3 +26,5 @@ globalSettings__mail__smtp__useDefaultCredentials=false
 globalSettings__mail__smtp__authType=Negotiate
 globalSettings__mail__smtp__trustServer=true
 ```
+
+
