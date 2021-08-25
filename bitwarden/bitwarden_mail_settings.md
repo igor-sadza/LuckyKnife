@@ -3,7 +3,7 @@
 
 Mail settings for your bitwarden self hosted service.
 
-### Installation
+### Configuration
 
 Put this global settings in your bitwarden override file.
 
