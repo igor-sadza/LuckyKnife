@@ -113,4 +113,9 @@ xrandr \
 --output HDMI-1-1 --mode 2560x1080 --pos 0x0 --rotate normal
 ```
 
+### REF
+https://wiki.debian.org/NvidiaGraphicsDrivers
 
+https://askubuntu.com/questions/593938/how-to-run-both-intel-and-nvidia-graphics-card-driver-on-dual-monitor-setup
+
+http://us.download.nvidia.com/XFree86/Linux-x86/319.12/README/randr14.html
