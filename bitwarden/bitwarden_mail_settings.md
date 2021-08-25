@@ -1,8 +1,5 @@
-# BitwardenMailSettings
-Mail settings for your bitwarden self hosted service.
-
 <!-- ABOUT THE PROJECT -->
-## BITWARDEN MAIL SETTINGS
+## Bitwarden Mail Settings
 
 Mail settings for your bitwarden self hosted service.
 
