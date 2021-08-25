@@ -5,7 +5,4 @@ Repository contains
 * configuration files,
 * some installation tips.
 
-
-### Prerequisites
-
-Debian/Ubuntu
+Most of this is for debian, but if you want you can try use it on other distributions.
