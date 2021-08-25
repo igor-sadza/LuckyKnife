@@ -3,7 +3,7 @@
 
 If you want to passtrought pcie on zfs setup you need to edit cmdline in your kernel.
 
-### Installation
+### Configuration
 
 1. Edit cmdline file
 ```sh
