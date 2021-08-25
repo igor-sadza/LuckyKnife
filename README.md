@@ -5,4 +5,4 @@ Repository contains
 * configuration files,
 * some installation tips.
 
-Most of this is for debian, but if you want you can try use it on other distributions.
+Most of this is for debian-os, but if you want you can try use it on other distributions.
