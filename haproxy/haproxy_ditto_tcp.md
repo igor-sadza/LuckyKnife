@@ -14,6 +14,9 @@ Ditto allows to sync multiple worksations clipboard (linux,widnows) for doing th
 ## Haproxy tcp config
 
 ```sh
+
+#Ditto standard tcp port is 23443
+
 frontend tcp_frontend
    mode           tcp
    bind            *:23443
