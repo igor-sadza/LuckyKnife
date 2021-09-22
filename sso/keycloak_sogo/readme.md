@@ -65,13 +65,13 @@ Navigate to user attributes.
 
 <img src="https://github.com/igor-sadza/JakCo/blob/5147a7b527df4d6af8e3f277072e4e6d7fc91f44/sso/keycloak_sogo/img/14_user_attributes.png" align="center">.
 
-Create an email attribute.
+Create an email attribute, remeber to use valid sogo account mail!
 
-<img src="https://github.com/igor-sadza/JakCo/blob/5147a7b527df4d6af8e3f277072e4e6d7fc91f44/sso/keycloak_sogo/img/15_save_attributes.png" align="center">.
+<img src="https://github.com/igor-sadza/JakCo/blob/5147a7b527df4d6af8e3f277072e4e6d7fc91f44/sso/keycloak_sogo/img/15_save_attributes.png" align="center">
 
 Navigate to the user's credentials.
 
-<img src="https://github.com/igor-sadza/JakCo/blob/5147a7b527df4d6af8e3f277072e4e6d7fc91f44/sso/keycloak_sogo/img/16_user_credentials.png" align="center">.
+<img src="https://github.com/igor-sadza/JakCo/blob/5147a7b527df4d6af8e3f277072e4e6d7fc91f44/sso/keycloak_sogo/img/16_user_credentials.png" align="center">
 
 Set the user's password.
 
