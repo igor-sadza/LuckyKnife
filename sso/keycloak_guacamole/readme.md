@@ -5,7 +5,7 @@ Guacamole saml with keycloak idp.
 ## Table of Contents
 
 1. [Keycloak Configuration](#keycloak)
-2. [Apache Guacamole Configuration](#Apache Guacamole)
+2. [Guacamole Configuration](#Guacamole)
 
 ## Keycloak
 
@@ -66,7 +66,7 @@ saml.persistent.name.id.for.https://guacamole.YOUR-DOMAIN-NAME | YOUR-GUACAMOLE-
 <img src="https://github.com/igor-sadza/JakCo/blob/21116c622f45511d75db008e9746c33eec4ba818/sso/keycloak_guacamole/img/keycloak_guacamole_11.png" align="center">
 
 
-## Apache Guacamole
+## Guacamole
 
 Log in to your keycloak machine. 
 
