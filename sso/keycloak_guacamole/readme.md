@@ -5,7 +5,7 @@ Guacamole saml with keycloak idp.
 ## Table of Contents
 
 1. [Keycloak Configuration](#keycloak)
-2. [Apache Guacamole Configuration](#sogo)
+2. [Apache Guacamole Configuration](#Apache Guacamole)
 
 ## Keycloak
 
@@ -45,17 +45,20 @@ Create user.
 
 <img src="https://github.com/igor-sadza/JakCo/blob/21116c622f45511d75db008e9746c33eec4ba818/sso/keycloak_guacamole/img/keycloak_guacamole_8.png" align="center">
 
-Go to credentials
+Go to credentials.
 
 <img src="https://github.com/igor-sadza/JakCo/blob/21116c622f45511d75db008e9746c33eec4ba818/sso/keycloak_guacamole/img/keycloak_guacamole_9.png" align="center">
 
-Setup password and verify it
+Setup password and verify it.
 
 <img src="https://github.com/igor-sadza/JakCo/blob/21116c622f45511d75db008e9746c33eec4ba818/sso/keycloak_guacamole/img/keycloak_guacamole_10.png" align="center">
 
-Go to user attributes.
+Set user password and go to attributes panel.
 
-Add 
+<img src="https://github.com/igor-sadza/JakCo/blob/acf7030ed4f3350e2eb15af4ab93d89c364ab92e/sso/keycloak_guacamole/img/keycloak_guacamole_12.png" align="center">
+
+Add name
+
 | Key | Value |
 | ------ | ------ |
 saml.persistent.name.id.for.https://guacamole.YOUR-DOMAIN-NAME | YOUR-GUACAMOLE-USER-NAME
