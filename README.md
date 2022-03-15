@@ -1,4 +1,4 @@
-# About JakCo
+# Wiki
 
 Repository contains
 * guides how to setup self hosted services,
