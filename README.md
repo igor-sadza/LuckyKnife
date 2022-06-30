@@ -1,3 +1,3 @@
 # LuckyKnife
 
-Placeholder for my configurations, notes and tips.
+Configurations, notes and tips.
