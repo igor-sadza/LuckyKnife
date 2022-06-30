@@ -1,3 +1,3 @@
 # LuckyKnife
 
-Configurations, notes and tips.
+Wiki - configurations, notes and tips.
